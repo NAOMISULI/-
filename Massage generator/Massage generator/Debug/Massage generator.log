@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Massage generator.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\1\source\repos\תעשיה אוורית תרגיל\share\Client\Client.h(74,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\1\source\repos\תעשיה אוורית תרגיל\share\Client\Client.h(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\1\source\repos\תעשיה אוורית תרגיל\share\Client\Client.h(66): warning C4715: 'Client::Create_Client': not all control paths return a value
+C:\Users\1\source\repos\תעשיה אוורית תרגיל\share\Client\Client.h(144): warning C4715: 'Client::recivd_client': not all control paths return a value
+  Massage generator.vcxproj -> C:\Users\1\source\repos\תעשיה אוורית תרגיל\Massage generator\Debug\Message generator.exe
